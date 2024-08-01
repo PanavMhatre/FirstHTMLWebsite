@@ -22,6 +22,10 @@ h2 {
     margin: 0.5em 0;
 }
 
+li{
+    width: 100%;
+}
+
 ul, ol {
     padding-left: 0;
     list-style-position: inside;
@@ -37,6 +41,7 @@ a {
     color: blue;
     display: block;
     margin: 1em 0;
+    margin-bottom: 10px;
 }
 
 a:hover {
